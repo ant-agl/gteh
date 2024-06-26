@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Acme;
+  src: url('./public/font/Acme.ttf');
+}
+
+* {
+  outline: none;
+  font-family: Acme, sans-serif;
+  letter-spacing: 0%;
+  color: #fff;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #090E10;
+}
+
+.container {
+  width: 100%;
+  padding: 0 20px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.btn {
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 18px;
+  text-transform: uppercase;
+  border: none;
+}
+
+.green-text {
+  color: $green;
+}

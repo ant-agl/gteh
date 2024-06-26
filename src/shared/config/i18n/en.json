@@ -1,0 +1,83 @@
+{
+  "title": "гита",
+  "utils": {
+    "and": "and"
+  },
+  "buttons": {
+    "switchLang": "En",
+    "registration": "Registration",
+    "signIn": "Sign in",
+    "instruments": "Yield instruments",
+    "more": "More",
+    "catalog": "Equipment catalog",
+    "consultation": "Get a consultation",
+    "repair": "Equipment repair at GTEH SERVICE",
+    "cooperation": "Offer cooperation",
+    "ownEquipment": "Connect your equipment",
+    "aboutPool": "More about the pool"
+  },
+  "menu": {
+    "incomeCell": "Income cell",
+    "ownSoftware": "Own software",
+    "repairAndMaintenance": "Repair and Maintenance",
+    "pool": "Mining pool",
+    "generation": "Generation.",
+    "tech": "Technologies.",
+    "environment": "Environment.",
+    "hash": "Hashrate."
+  },
+  "titles": {
+    "headerMain": "Service for investments in high-yield",
+    "headerSub": "technological assets",
+    "cell": "Income cell in the data center",
+    "maximizing": "Maximizing profitability through your own data centers and server infrastructure",
+    "softwareGreen": "Own",
+    "software": "software",
+    "top": "— TOP 2 in the world in terms of production",
+    "togetherTop": "Together —",
+    "togetherBottom": "towards your goals"
+  },
+  "subtitles": {
+    "header": "Safe investments from 40% per annum",
+    "cell": "We take care of the selection, purchase and placement of computing equipment",
+    "top": "Advanced technologies for maximizing profits",
+    "togetherFirst": "Community",
+    "togetherSecond": "to Telegram"
+  },
+  "top": {
+    "title": "Correct transparent accruals",
+    "description": {
+      "first": "Automatic Check Balances and Disbursements",
+      "second": "Checksum Matching",
+      "third": "Multi-level system of control, accounting and comparison of payouts",
+      "fourth": "Transparent history of mining in the personal cabinet"
+    }
+  },
+  "founder": {
+    "name": "Sergei Ruchev",
+    "posts": {
+      "first": "Founder of the Smart Country Group of Companies",
+      "second": "Director of the Quantum Computing and Blockchain Department of BitRU (GTEH brand)",
+      "third": "Advisor to the Chairman of the Board of Directors of the Fiztechpark IT hub"
+    },
+    "sections": {
+      "title": "GC Partners",
+      "firstSection": {
+        "title": "SMARTCOUNTRYSMARTCOUNTRY",
+        "description": "partnercompany"
+      },
+      "secondSection": {
+        "title": "BASELINE",
+        "description": "General Partner"
+      }
+    },
+    "umstrana": {
+      "title": "Умная страна",
+      "description": ""
+    },
+    "osnova": {
+      "title": "Жилые комплексы от ГК \"Основа\"",
+      "description": ""
+    }
+  }
+}
